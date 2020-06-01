@@ -1,2 +1,3 @@
 # drumKit
-This is a website where you can create your own music with a built in drum-kit
+Everwanted to play the drums, but you didn't have a drumkit? 
+Well now you can!
